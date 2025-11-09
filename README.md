@@ -1,8 +1,7 @@
-## hOI! im tEMMIE!! and dis is... tEMMIE!!
-
-### 🚀 bout tEMMIE!!
+## hOI! im tEMMIE!! and dis my friend... tEMMIE!!
 <img src="temmie.gif" alt="temmie" height="300" width="520"/> <br>
 
+### 🚀 bout tEMMIE!!
 tEMMIE is chronically online 18 hours a day...  
 tEM likes to wri(b)te kode...  
 tEM is doing a kourse on Unity Game Dev...  
