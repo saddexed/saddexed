@@ -2,12 +2,17 @@
 
 ### 🚀 bout tEMMIE!!
 <img src="temmie.gif" alt="temmie" height="300" width="520"/> <br>
-tEMMIE writes... SUCH CUTE CODE!!! but... tem code is... how u say... "spaghetti"? hOI! next human will be... VERY CONFUSED!! but tem thinks is... CUTE CONFUSION!! yAYA!!  
-tem has... SUCH IDEAS!!! but tem forget to finish idea when time... tem will finish... NEXT TIME!!!
+
+tEMMIE is chronically online 18 hours a day...  
+tEM likes to wri(b)te kode...  
+tEM is doing a kourse on Unity Game Dev...  
+teM is a cyBersECUrity student...  
+tem needs more friends...
+but no worried, tEM has tEM to talk to!!!  
 
 
 ### 🛠️ tEMMIE uses COOL TECHNOLOGY!!!
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,html,css,js,cpp,powershell,git,discord,discordjs,docker,selenium,vscode1&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,html,css,js,ts,cpp,powershell,bash,git,github,discord,discordjs,docker,aws,selenium,md,pr,vscode1&theme=dark)](https://skillicons.dev)
 
 
 ### 📊 tEMMIE STATS!!! (very NEW!!)
@@ -18,10 +23,10 @@ tem has... SUCH IDEAS!!! but tem forget to finish idea when time... tem will fin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saddexed&layout=compact&theme=dark)
 
 ### 🎯 tEMMIE has... GOALS!! (very determine!!)
-- [ ] tEMMIE want help... CUTE OPEN SOURCE!! 
+- [x] tEMMIE wants to help... OPEN SOURCE!! 
 - [ ] tEMMIE will learn... SUCH ALGORITHM!! VERY SMART!!
-- [x] tEMMIE make... PORTFOLIO OF CUTE!!
-- [ ] tEMMIE want meet... OTHER CUTE CODERS!! (frenship!!)
+- [x] tEMMIE make... PORTFOLIO!!
+- [ ] tEMMIE want meet... OTHER KODERS!! (frenship!!)
 
 ### ⚒ tEMMIE working on... PROJECTS!! (finish SOON!!)
 - **[clips](https://github.com/saddexed/clips)** - tEMS likes to... CLIP GAMES!!   
@@ -38,4 +43,4 @@ tem has... SUCH IDEAS!!! but tem forget to finish idea when time... tem will fin
 ---
 
 ⭐️ From [saddexed](https://github.com/saddexed) (but... tEMMIE wrote dis!! hOI!!)  
-<i>can tem realy acepts muns for this??
+<i>can tem realy acepts muns for this??</i>
