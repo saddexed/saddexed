@@ -9,13 +9,13 @@ I do many qol and automation projects but never tend to upload them because hone
 I hate how lazy AI has made me so I only keep work of the best quality with me, rest all is temporary.  
 the voices are getting louder, they demand sacrifice...
 
-<!-- Discord Presence -->
-<a href="https://discord.com/users/94490510688792576">
-  <img src="https://lanyard.cnrad.dev/api/692418341993709600?theme=dark&animatedDecoration=true&hideDiscrim=false&showDisplayName=true&borderRadius=10px" alt="Discord Presence" height="200px"/>
-</a>
 <!-- Steam Presence -->
 <a href="https://steamcommunity.com/id/saddexed">
-  <img src="https://steam-widget.com/widget/img?id=76561199469800966&gameList=TOP_GAMES_RECENT&gameListSize=3" alt="Steam Presence" height="200px"/>
+  <img src="https://steam-widget.com/widget/img?id=76561199469800966&gameList=TOP_GAMES_RECENT&gameListSize=3" alt="Steam Presence" height="220px" align="top"/>
+</a>
+<!-- Discord Presence -->
+<a href="https://discord.com/users/94490510688792576">
+  <img src="https://lanyard.cnrad.dev/api/692418341993709600?theme=dark&animatedDecoration=true&hideDiscrim=false&showDisplayName=true&borderRadius=10px" alt="Discord Presence" height="172px" align="top"/>
 </a>
 
 ## technologia!
