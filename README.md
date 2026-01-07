@@ -11,11 +11,11 @@ the voices are getting louder, they demand sacrifice...
 
 <!-- Discord Presence -->
 <a href="https://discord.com/users/94490510688792576">
-  <img src="https://lanyard.cnrad.dev/api/692418341993709600?theme=dark&animatedDecoration=true&hideDiscrim=false&showDisplayName=true&borderRadius=20px" alt="Discord Presence" style="max-height: 200px !important; border-radius: 20px !important"/>
+  <img src="https://lanyard.cnrad.dev/api/692418341993709600?theme=dark&animatedDecoration=true&hideDiscrim=false&showDisplayName=true&borderRadius=10px" alt="Discord Presence" height="200px"/>
 </a>
 <!-- Steam Presence -->
 <a href="https://steamcommunity.com/id/saddexed">
-  <img src="https://steam-widget.com/widget/img?id=76561199469800966&gameList=TOP_GAMES_RECENT&gameListSize=3" alt="Steam Presence" style="max-height: 200px !important; border-radius: 20px !important"/>
+  <img src="https://steam-widget.com/widget/img?id=76561199469800966&gameList=TOP_GAMES_RECENT&gameListSize=3" alt="Steam Presence" height="200px"/>
 </a>
 
 ## technologia!
