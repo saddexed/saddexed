@@ -10,7 +10,7 @@ I hate how lazy AI has made me so I only keep work of the best quality with me, 
 the voices are getting louder, they demand sacrifice...
 <!-- Osu! stats -->
 <a href="https://osu.ppy.sh/users/saddex">
-  <img src="https://osu-stats-embed.vercel.app/api/saddex?stats=true" alt="Osu! Profile" height="172px" align="top"/>
+  <img src="https://osu-stats-card.vercel.app/api/saddex?svg=true" alt="Osu! Profile" height="172px" align="top"/>
 </a>
 <!-- Discord Presence -->
 <a href="https://discord.com/users/94490510688792576">
