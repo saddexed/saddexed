@@ -51,11 +51,7 @@ uptime:
 
 ## stats (they keep me humble)
 
-<img src="https://ghstats.dev/api/card?username=saddexed&theme=nightowl&hide_title=true&border_radius=5&hide=avg%2Cstreak%2Cissues%2Cgrade%2Cstars%2Ctrend%2Cweek" height="165">
-<img src="https://ghstats.dev/api/langs?username=saddexed&theme=ayu&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" height="165"/>
-<a href="https://osu.ppy.sh/users/saddex">
-  <img src="https://osu-stats.saddex.dev/api/saddex?svg=true" alt="osu! stats" height="165" />
-</a>
+<img src="https://ghstats.dev/api/card?username=saddexed&theme=nightowl&hide_title=true&border_radius=5&hide=avg%2Cstreak%2Cissues%2Cgrade%2Cstars%2Ctrend%2Cweek" height="170"><img src="https://ghstats.dev/api/langs?username=saddexed&theme=ayu&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" height="170"/><a href="https://osu.ppy.sh/users/saddex"><img src="https://osu-stats.saddex.dev/api/saddex?svg=true" alt="osu! stats" height="160" /></a>
 
 ## currently
 
