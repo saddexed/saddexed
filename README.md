@@ -4,8 +4,9 @@
 B.Tech CSE grad (LPU, class of 2026). I'm **open to work** in Cloud/DevOps, Backend and Software Engineering roles, so please hire me before I automate my own job hunt.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-shaunedwin.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shaunedwin.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-shawndex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawndex/)
 [![Email](https://img.shields.io/badge/email-hireme@shaunedwin.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hireme@shaunedwin.com)
+[![Resume](https://img.shields.io/badge/resume-resume-pink?style=for-the-badge&logo=googledocs&logoColor=white)](https://r2.shaunedwin.com/Shaun%20Cloud%20Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-shawndex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawndex/)
 
 ## whoami
 
@@ -15,14 +16,17 @@ status:      open to work (yes, the email really is hireme@ im desperate)
 certs:       [AWS Cloud Practitioner, Azure AZ-900, CompTIA Security+]
 experience:  Automation Tester @ HCL Technologies (2021-2022)
 hobbies:     [CTFs, osu!, tweaking Windows until it begs for mercy]
-uptime:      high. sleep schedule: degraded.
+uptime:      
+  backend: high. 
+  frontend: slow. 
+  sleep schedule: degraded.
 ```
 
 - 🧪 Spent a year at HCL automating 40+ website features with Selenium. Bugs got found ~20% faster and I learned to never trust a flaky test.
 - 🚩 Designed challenges for 8+ hackathons and CTFs and mentored junior hackers. Sorry about the ones nobody solved.
-- 🏆 Rank #1 at Chakravyuh CTF, RCS CTF 2024 and The Encrypted Warfare Hackathon. #2 at HackSkills CTF, #3 at university level for SIH.
+- 🏆 Rank #1 at Chakravyuh CTF, RCS CTFs and TEW Hackathon. Rank #2 at HackSkills CTF, #3 at university level for SIH.
 - 🛠️ I like owning the whole path: write the API, containerize it, wire up CI/CD, then stare at Grafana until it stays green.
-- ☁️ My bio says "I write terrible code that runs on my system". These days I put it in a container so it runs on yours too.
+- ☁️ I used to write terrible code that runs on my system. These days I put it in a container so it runs on yours too ;3
 
 ## things i've built
 
@@ -32,6 +36,7 @@ uptime:      high. sleep schedule: degraded.
 | [osu-stats-card](https://github.com/saddexed/osu-stats-card) | Serverless API that turns osu! stats into an SVG card for your README. No database involved. | TypeScript, Vercel |
 | [LapKeys](https://github.com/saddexed/LapKeys) | Refresh rate and brightness control for laptops whose OEM forgot to ship software. Talks straight to WMI, zero dependencies. | C#, .NET 8, WPF |
 | [llogin2](https://github.com/saddexed/llogin2) | Cross-platform cli auto-login for my university's captive portal, because it logged me out more often than it let me in. | C#, .NET 10 |
+| [draw-doodle](https://github.com/saddexed/tab-doodle) | Chrome MV3 Extension that allows you to draw/annotate on web pages with additional features | JavaScript, HTML
 | [Prime Player Tweaks](https://github.com/saddexed/Prime-Player-Tweaks) | Fixes the Prime Video player so I don't have to. | JavaScript, CSS |
 
 ## toolbox
@@ -46,23 +51,24 @@ uptime:      high. sleep schedule: degraded.
 
 ## stats (they keep me humble)
 
-<a href="https://github.com/saddexed">
-  <img src="https://github-readme-stats.vercel.app/api?username=saddexed&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165" align="top"/>
-</a>
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=saddexed&layout=compact&theme=blue-green" alt="Top languages" height="165" align="top"/>
+<img src="https://ghstats.dev/api/card?username=saddexed&theme=nightowl&hide_title=true&border_radius=5&hide=avg%2Cstreak%2Cissues%2Cgrade%2Cstars%2Ctrend%2Cweek" height="165">
+<img src="https://ghstats.dev/api/langs?username=saddexed&theme=ayu&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" height="165"/>
 <a href="https://osu.ppy.sh/users/saddex">
-  <img src="https://osu-stats-card.vercel.app/api/saddex?svg=true" alt="osu! stats" height="165" align="top"/>
+  <img src="https://osu-stats.saddex.dev/api/saddex?svg=true" alt="osu! stats" height="165" />
 </a>
 
 ## currently
 
+- [ ] Learn DSA properly (~~negotiating w/ myself~~ started leetcode)
+- [ ] Make meaningful open source contributions
 - [x] Graduate (it happened, we have photos)
 - [x] Get certified on AWS, Azure and Security+
-- [x] Ship a hosted personal website ([shaunedwin.com](https://shaunedwin.com))
+- [x] Have a semi-decent portfilio website ([shaunedwin.com](https://shaunedwin.com))
+- [ ] Have a personal website (never...)
 - [ ] Land a Cloud, Backend or SDE role ← you can help with this one
-- [ ] Make meaningful open source contributions
-- [ ] Learn DSA properly (still negotiating with myself)
 
 ---
-
+<sub><i> @grok is this true? </i><sub>
+<!--
 <sub>Looking for the old chaotic profile? temmie lives on in the [`temmie`](https://github.com/saddexed/saddexed/tree/temmie) branch. hOI!</sub>
+-->
